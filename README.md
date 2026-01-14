@@ -1,5 +1,16 @@
-# contrast
+# Contrast Checker
 
-A wbtl.app tool.
+A WCAG color contrast checker for accessibility.
 
-Visit: https://contrast.wbtl.app
+## Development
+
+This tool has no build dependencies. Edit `dist/index.html` directly.
+
+## Output
+
+Production files are in the `dist/` folder:
+- `dist/index.html` - Main application
+
+## Deploy
+
+Copy the contents of `dist/` to any static hosting service.
